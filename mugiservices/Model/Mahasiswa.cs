@@ -9,6 +9,7 @@ using Newtonsoft.Json;
 
 namespace mugiservices.Model
 {
+    //menambahkan representasi class mahasiswa
     public class Mahasiswa
     {
         [JsonProperty(PropertyName = "id")]
